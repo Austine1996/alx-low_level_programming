@@ -42,6 +42,7 @@ while (h < 58)
 		g++;
 	}
 	h++;
+}
 putchar('\n');
 return (0);
 }
